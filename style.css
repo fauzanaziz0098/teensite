@@ -1,11 +1,11 @@
 @font-face {
   font-family: recoleta;
-  src: url(/fonts/RecoletaFont/recoleta-regulardemo2.otf);
+  src: url(fonts/RecoletaFont/recoleta-regulardemo2.otf);
 }
 
 @font-face {
   font-family: montserrat;
-  src: url(/fonts/montserrat/Montserrat-Regular.ttf);
+  src: url(fonts/montserrat/Montserrat-Regular.ttf);
 }
 
 html {
