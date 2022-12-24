@@ -1075,7 +1075,7 @@ body {
   margin: 0 auto;
   left: 0;
   right: 0;
-  bottom: -15px;
+  bottom: -20px;
   width: 200px;
   padding: 4px 0 5px 0;
   border-radius: 20px;
@@ -1088,7 +1088,7 @@ body {
   margin: 0 auto;
   left: 0;
   right: 0;
-  bottom: -36px;
+  bottom: -48px;
   width: 130px;
   padding: 3px 0;
   border-radius: 20px;
@@ -1170,7 +1170,7 @@ body {
     font-size: calc(0.7em + 1vw);
   }
   .products .price {
-    bottom: -35px;
+    bottom: -30px;
     width: 130px;
     padding: 3px 0;
     font-size: calc(0.5em + 1vw);
